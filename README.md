@@ -9,7 +9,7 @@
 <h4 style="color: #afafaf" align="center">Stats</h4>
 
 <p  align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jowaaaa&theme=shadow-green&hide_border=true&background=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jowaaaa&theme=shadow-green&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
 </p>
 
 <h4 style="color: #afafaf" align="center">Total Visitors:</h4>
