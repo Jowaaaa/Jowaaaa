@@ -6,7 +6,7 @@
                                           \____/\____/|__/|__/\__,_/\__,_/\__,_/\__,_/
 ```
 
-<h4 style="color: #afafaf" align="center">Stats</h4>
+[<--<h4 style="color: #afafaf" align="center">Stats</h4>
 
 <p  align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jowaaaa&theme=shadow-green&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/Jowaaaa/count.svg" alt="Counter">
-</p>
+</p>]: #
 
 
 <h4 style="color: #afafaf" align="center">Most used languages:</h4>
