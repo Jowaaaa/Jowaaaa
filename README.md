@@ -1,17 +1,8 @@
-```
-                                                 __
-                                                / /___ _      ______ _____ _____ _____ _
-                                           __  / / __ \ | /| / / __ `/ __ `/ __ `/ __ `/
-                                          / /_/ / /_/ / |/ |/ / /_/ / /_/ / /_/ / /_/ /
-                                          \____/\____/|__/|__/\__,_/\__,_/\__,_/\__,_/
-```
-<h4 style="color: #afafaf" align="center">Stats:</h4>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-jade-chi.vercel.app?user=Jowaaaa&theme=shadow-red&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
-  </p>
+# Hi, I'm Job
 
-<h4 style="color: #afafaf" align="center">Most used languages:</h4>
-<p align="center">
-<img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jowaaaa&layout=compact&title_color=afafaf&bg_color=00000000&text_color=ffffff&hide_border=true&hide_title=true">
+I'm a Software Developer and Umbraco enthusiast. In my free time I enjoy building websites and work on other hobby projects.
 
-</p>
+<a href="https://jobvanderwal.dev"><img src="https://img.shields.io/badge/Portfolio-66FCF1?style=for-the-badge" alt="Portfolio"/></a>&nbsp;
+<img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>&nbsp;
+<img src="https://img.shields.io/badge/Umbraco-3544B1.svg?style=for-the-badge&logo=Umbraco&logoColor=white" alt="Umbraco"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/>&nbsp;
